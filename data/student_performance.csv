@@ -1,0 +1,1001 @@
+student_id,gender,major,semester,course,credits,grade,grade_points,attendance_pct
+STU-7001,Male,Mathematics,Fall 2023,Linear Algebra,3,A,3.98,96
+STU-7001,Male,Mathematics,Spring 2024,Abstract Algebra,3,B,2.9,80
+STU-7001,Male,Mathematics,Fall 2024,Calculus II,4,A,3.83,96
+STU-7001,Male,Mathematics,Spring 2025,Calculus II,3,F,0.0,37
+STU-7001,Male,Mathematics,Spring 2025,Real Analysis,4,B,2.93,92
+STU-7002,Male,English Literature,Fall 2023,Literary Theory,3,C,2.06,73
+STU-7002,Male,English Literature,Spring 2024,Composition I,3,B,2.89,80
+STU-7002,Male,English Literature,Fall 2024,Composition I,3,C,1.75,72
+STU-7003,Male,Chemistry,Fall 2023,Physical Chemistry,4,B,2.84,90
+STU-7003,Male,Chemistry,Spring 2024,Physical Chemistry,3,A,4.0,96
+STU-7003,Male,Chemistry,Fall 2024,Organic Chemistry,4,F,0.0,51
+STU-7004,Female,English Literature,Fall 2023,World Literature,4,C,1.89,83
+STU-7004,Female,English Literature,Spring 2024,American Literature,4,A,4.0,96
+STU-7004,Female,English Literature,Fall 2024,Literary Theory,3,C,1.9,75
+STU-7004,Female,English Literature,Spring 2025,Shakespeare,3,B,3.18,81
+STU-7005,Male,Psychology,Fall 2023,Abnormal Psychology,3,B,2.99,90
+STU-7005,Male,Psychology,Spring 2024,Intro to Psychology,3,F,0.22,52
+STU-7005,Male,Psychology,Fall 2024,Research Methods,3,B,2.81,92
+STU-7006,Female,Psychology,Fall 2023,Behavioral Neuroscience,3,A,3.83,90
+STU-7006,Female,Psychology,Spring 2024,Behavioral Neuroscience,4,F,0.21,53
+STU-7006,Female,Psychology,Fall 2024,Developmental Psychology,4,C,1.89,78
+STU-7006,Female,Psychology,Spring 2025,Cognitive Psychology,3,C,2.19,74
+STU-7007,Male,Psychology,Fall 2023,Abnormal Psychology,4,B,3.05,87
+STU-7007,Male,Psychology,Spring 2024,Developmental Psychology,4,C,1.75,86
+STU-7007,Male,Psychology,Fall 2024,Behavioral Neuroscience,3,D,0.94,74
+STU-7007,Male,Psychology,Spring 2025,Intro to Psychology,3,F,0.0,47
+STU-7008,Male,Nursing,Fall 2023,Anatomy & Physiology,3,A,3.71,97
+STU-7008,Male,Nursing,Spring 2024,Nursing Research,3,C,1.98,82
+STU-7008,Male,Nursing,Fall 2024,Health Assessment,4,B,2.72,80
+STU-7008,Male,Nursing,Spring 2025,Pharmacology,4,A,3.87,98
+STU-7008,Male,Nursing,Spring 2025,Community Health,4,F,0.26,55
+STU-7009,Male,Psychology,Fall 2023,Clinical Psychology,4,C,2.25,86
+STU-7009,Male,Psychology,Spring 2024,Research Methods,4,C,1.77,72
+STU-7009,Male,Psychology,Fall 2024,Behavioral Neuroscience,4,D,0.96,50
+STU-7010,Male,Nursing,Fall 2023,Pharmacology,3,F,0.0,39
+STU-7010,Male,Nursing,Spring 2024,Medical-Surgical Nursing,4,A,4.0,99
+STU-7010,Male,Nursing,Fall 2024,Anatomy & Physiology,4,C,1.74,84
+STU-7011,Male,Business Administration,Fall 2023,Organizational Behavior,3,B,2.85,89
+STU-7011,Male,Business Administration,Spring 2024,Strategic Management,4,A,4.0,88
+STU-7011,Male,Business Administration,Fall 2024,Financial Accounting,3,F,0.0,55
+STU-7011,Male,Business Administration,Spring 2025,Business Law,4,D,0.95,54
+STU-7011,Male,Business Administration,Spring 2025,Business Law,3,B,3.28,82
+STU-7012,Male,Chemistry,Fall 2023,Biochemistry,3,C,2.15,81
+STU-7012,Male,Chemistry,Spring 2024,Analytical Chemistry,4,B,2.71,83
+STU-7012,Male,Chemistry,Fall 2024,Inorganic Chemistry,4,F,0.0,56
+STU-7012,Male,Chemistry,Spring 2025,Analytical Chemistry,4,D,0.75,57
+STU-7013,Female,English Literature,Fall 2023,Shakespeare,3,C,1.74,79
+STU-7013,Female,English Literature,Spring 2024,British Literature,3,C,2.15,84
+STU-7013,Female,English Literature,Fall 2024,Shakespeare,3,B,2.99,86
+STU-7013,Female,English Literature,Spring 2025,Composition I,4,A,4.0,94
+STU-7013,Female,English Literature,Spring 2025,Shakespeare,4,A,4.0,91
+STU-7014,Male,Biology,Fall 2023,Biochemistry,3,F,0.21,43
+STU-7014,Male,Biology,Spring 2024,Molecular Biology,3,F,0.0,37
+STU-7014,Male,Biology,Fall 2024,Biochemistry,4,B,2.78,87
+STU-7014,Male,Biology,Spring 2025,Genetics,4,C,1.75,65
+STU-7015,Female,Biology,Fall 2023,Ecology,4,C,2.18,75
+STU-7015,Female,Biology,Spring 2024,Biochemistry,3,B,2.78,91
+STU-7015,Female,Biology,Fall 2024,Biochemistry,4,D,1.19,65
+STU-7015,Female,Biology,Spring 2025,Biochemistry,4,C,2.08,72
+STU-7016,Male,English Literature,Fall 2023,World Literature,3,C,1.75,72
+STU-7016,Male,English Literature,Spring 2024,Creative Writing,3,D,0.79,71
+STU-7016,Male,English Literature,Fall 2024,Creative Writing,4,F,0.0,45
+STU-7016,Male,English Literature,Spring 2025,British Literature,4,D,1.0,61
+STU-7017,Female,Biology,Fall 2023,Biochemistry,4,B,3.18,90
+STU-7017,Female,Biology,Spring 2024,Ecology,4,D,1.28,63
+STU-7017,Female,Biology,Fall 2024,Biochemistry,3,F,0.0,46
+STU-7017,Female,Biology,Spring 2025,Genetics,4,D,0.72,57
+STU-7017,Female,Biology,Spring 2025,Biochemistry,4,C,2.1,69
+STU-7018,Female,Mathematics,Fall 2023,Linear Algebra,4,D,1.19,62
+STU-7018,Female,Mathematics,Spring 2024,Real Analysis,4,D,0.78,69
+STU-7018,Female,Mathematics,Fall 2024,Differential Equations,3,B,2.93,95
+STU-7018,Female,Mathematics,Spring 2025,Calculus I,4,C,2.14,82
+STU-7019,Female,English Literature,Fall 2023,Shakespeare,4,B,3.08,78
+STU-7019,Female,English Literature,Spring 2024,British Literature,4,A,4.0,95
+STU-7019,Female,English Literature,Fall 2024,Composition I,3,D,1.19,61
+STU-7020,Female,Business Administration,Fall 2023,Business Law,3,C,2.04,87
+STU-7020,Female,Business Administration,Spring 2024,Business Statistics,4,D,0.9,65
+STU-7020,Female,Business Administration,Fall 2024,Marketing Fundamentals,3,A,4.0,92
+STU-7020,Female,Business Administration,Spring 2025,Organizational Behavior,4,B,2.96,80
+STU-7020,Female,Business Administration,Spring 2025,Marketing Fundamentals,4,B,2.81,81
+STU-7021,Female,Business Administration,Fall 2023,Operations Management,3,F,0.05,36
+STU-7021,Female,Business Administration,Spring 2024,Marketing Fundamentals,4,B,2.92,90
+STU-7021,Female,Business Administration,Fall 2024,Marketing Fundamentals,3,D,1.28,52
+STU-7021,Female,Business Administration,Spring 2025,Strategic Management,3,C,1.79,67
+STU-7022,Female,Business Administration,Fall 2023,Financial Accounting,4,C,2.11,66
+STU-7022,Female,Business Administration,Spring 2024,Marketing Fundamentals,3,A,3.72,90
+STU-7022,Female,Business Administration,Fall 2024,Business Statistics,3,C,1.84,71
+STU-7022,Female,Business Administration,Spring 2025,Marketing Fundamentals,3,B,3.05,78
+STU-7022,Female,Business Administration,Spring 2025,Organizational Behavior,3,A,4.0,98
+STU-7023,Female,Business Administration,Fall 2023,Business Statistics,3,B,2.87,84
+STU-7023,Female,Business Administration,Spring 2024,Business Statistics,4,C,2.17,87
+STU-7023,Female,Business Administration,Fall 2024,Business Law,3,C,2.03,72
+STU-7024,Male,Biology,Fall 2023,Ecology,4,B,3.26,79
+STU-7024,Male,Biology,Spring 2024,Genetics,3,B,3.24,87
+STU-7024,Male,Biology,Fall 2024,Microbiology,3,B,2.79,87
+STU-7024,Male,Biology,Spring 2025,Biochemistry,3,C,1.81,68
+STU-7024,Male,Biology,Spring 2025,Ecology,4,D,0.88,59
+STU-7025,Male,Economics,Fall 2023,Microeconomics,3,B,3.23,78
+STU-7025,Male,Economics,Spring 2024,Macroeconomics,3,A,3.91,97
+STU-7025,Male,Economics,Fall 2024,Labor Economics,3,B,2.74,92
+STU-7025,Male,Economics,Spring 2025,Labor Economics,4,B,2.97,90
+STU-7026,Female,Mechanical Engineering,Fall 2023,Machine Design,3,B,2.86,81
+STU-7026,Female,Mechanical Engineering,Spring 2024,Machine Design,4,D,0.82,72
+STU-7026,Female,Mechanical Engineering,Fall 2024,Fluid Mechanics,3,C,2.08,86
+STU-7026,Female,Mechanical Engineering,Spring 2025,Manufacturing Processes,4,C,2.27,72
+STU-7026,Female,Mechanical Engineering,Spring 2025,Materials Science,3,B,2.86,79
+STU-7027,Male,Psychology,Fall 2023,Developmental Psychology,4,A,3.93,91
+STU-7027,Male,Psychology,Spring 2024,Clinical Psychology,3,B,2.94,79
+STU-7027,Male,Psychology,Fall 2024,Clinical Psychology,3,B,2.73,90
+STU-7027,Male,Psychology,Spring 2025,Cognitive Psychology,3,B,3.13,88
+STU-7028,Female,Mathematics,Fall 2023,Calculus I,3,B,3.26,84
+STU-7028,Female,Mathematics,Spring 2024,Probability & Statistics,4,C,1.98,83
+STU-7028,Female,Mathematics,Fall 2024,Differential Equations,4,B,3.22,81
+STU-7029,Male,Business Administration,Fall 2023,Organizational Behavior,3,D,1.23,71
+STU-7029,Male,Business Administration,Spring 2024,Financial Accounting,4,A,3.85,88
+STU-7029,Male,Business Administration,Fall 2024,Strategic Management,3,D,1.13,65
+STU-7029,Male,Business Administration,Spring 2025,Business Statistics,4,B,3.25,85
+STU-7029,Male,Business Administration,Spring 2025,Business Statistics,4,A,4.0,93
+STU-7030,Male,Mechanical Engineering,Fall 2023,Thermodynamics,4,B,3.01,84
+STU-7030,Male,Mechanical Engineering,Spring 2024,Fluid Mechanics,3,B,2.82,89
+STU-7030,Male,Mechanical Engineering,Fall 2024,Control Systems,3,F,0.0,59
+STU-7030,Male,Mechanical Engineering,Spring 2025,Engineering Mechanics,4,B,3.02,94
+STU-7030,Male,Mechanical Engineering,Spring 2025,Fluid Mechanics,4,D,1.13,54
+STU-7031,Male,Chemistry,Fall 2023,Biochemistry,3,A,4.0,98
+STU-7031,Male,Chemistry,Spring 2024,General Chemistry,3,B,2.82,87
+STU-7031,Male,Chemistry,Fall 2024,Physical Chemistry,4,B,3.29,80
+STU-7031,Male,Chemistry,Spring 2025,Polymer Chemistry,4,B,2.73,83
+STU-7032,Female,Mathematics,Fall 2023,Calculus I,4,B,3.15,93
+STU-7032,Female,Mathematics,Spring 2024,Linear Algebra,3,A,3.9,98
+STU-7032,Female,Mathematics,Fall 2024,Linear Algebra,4,C,2.02,78
+STU-7032,Female,Mathematics,Spring 2025,Probability & Statistics,4,D,0.71,53
+STU-7032,Female,Mathematics,Spring 2025,Discrete Mathematics,3,C,2.15,82
+STU-7033,Male,Mathematics,Fall 2023,Discrete Mathematics,4,C,1.97,86
+STU-7033,Male,Mathematics,Spring 2024,Calculus II,3,A,3.82,97
+STU-7033,Male,Mathematics,Fall 2024,Calculus II,3,C,1.98,82
+STU-7033,Male,Mathematics,Spring 2025,Differential Equations,3,A,4.0,97
+STU-7033,Male,Mathematics,Spring 2025,Differential Equations,4,D,1.14,61
+STU-7034,Male,Mechanical Engineering,Fall 2023,Fluid Mechanics,3,C,1.85,88
+STU-7034,Male,Mechanical Engineering,Spring 2024,Control Systems,3,B,2.77,89
+STU-7034,Male,Mechanical Engineering,Fall 2024,Manufacturing Processes,3,B,3.25,82
+STU-7034,Male,Mechanical Engineering,Spring 2025,Heat Transfer,3,C,1.88,72
+STU-7034,Male,Mechanical Engineering,Spring 2025,Thermodynamics,4,D,1.17,71
+STU-7035,Male,Mechanical Engineering,Fall 2023,Manufacturing Processes,4,B,2.82,94
+STU-7035,Male,Mechanical Engineering,Spring 2024,Control Systems,4,B,3.24,92
+STU-7035,Male,Mechanical Engineering,Fall 2024,Manufacturing Processes,3,D,0.76,69
+STU-7035,Male,Mechanical Engineering,Spring 2025,Fluid Mechanics,4,B,3.02,89
+STU-7036,Female,Economics,Fall 2023,Macroeconomics,4,C,1.88,78
+STU-7036,Female,Economics,Spring 2024,Development Economics,4,A,4.0,89
+STU-7036,Female,Economics,Fall 2024,Development Economics,3,A,3.77,99
+STU-7036,Female,Economics,Spring 2025,Public Finance,4,D,0.74,56
+STU-7037,Female,English Literature,Fall 2023,Creative Writing,4,B,2.94,92
+STU-7037,Female,English Literature,Spring 2024,British Literature,3,A,3.79,96
+STU-7037,Female,English Literature,Fall 2024,Composition I,3,B,2.79,95
+STU-7037,Female,English Literature,Spring 2025,World Literature,3,C,2.24,69
+STU-7037,Female,English Literature,Spring 2025,Modern Poetry,3,B,3.12,92
+STU-7038,Female,Mechanical Engineering,Fall 2023,Thermodynamics,4,A,4.0,95
+STU-7038,Female,Mechanical Engineering,Spring 2024,Engineering Mechanics,4,C,1.8,74
+STU-7038,Female,Mechanical Engineering,Fall 2024,Fluid Mechanics,4,C,2.13,83
+STU-7038,Female,Mechanical Engineering,Spring 2025,Machine Design,4,B,3.25,80
+STU-7039,Male,Chemistry,Fall 2023,Analytical Chemistry,3,B,3.04,88
+STU-7039,Male,Chemistry,Spring 2024,General Chemistry,4,A,3.87,93
+STU-7039,Male,Chemistry,Fall 2024,Organic Chemistry,3,B,3.25,86
+STU-7039,Male,Chemistry,Spring 2025,Organic Chemistry,4,A,4.0,90
+STU-7040,Male,Biology,Fall 2023,General Biology,3,C,1.96,71
+STU-7040,Male,Biology,Spring 2024,General Biology,3,B,3.29,86
+STU-7040,Male,Biology,Fall 2024,Ecology,3,F,0.07,30
+STU-7041,Female,English Literature,Fall 2023,World Literature,3,B,2.91,81
+STU-7041,Female,English Literature,Spring 2024,British Literature,4,A,3.83,97
+STU-7041,Female,English Literature,Fall 2024,American Literature,3,B,3.05,89
+STU-7041,Female,English Literature,Spring 2025,American Literature,3,B,2.92,91
+STU-7042,Male,Business Administration,Fall 2023,Business Statistics,3,B,2.99,89
+STU-7042,Male,Business Administration,Spring 2024,Business Law,4,B,3.29,81
+STU-7042,Male,Business Administration,Fall 2024,Business Statistics,4,C,1.83,84
+STU-7042,Male,Business Administration,Spring 2025,Business Statistics,3,D,0.94,71
+STU-7042,Male,Business Administration,Spring 2025,Organizational Behavior,4,A,4.0,92
+STU-7043,Male,Mechanical Engineering,Fall 2023,Heat Transfer,4,C,2.13,66
+STU-7043,Male,Mechanical Engineering,Spring 2024,Heat Transfer,4,B,2.91,91
+STU-7043,Male,Mechanical Engineering,Fall 2024,Heat Transfer,3,C,1.86,72
+STU-7043,Male,Mechanical Engineering,Spring 2025,Thermodynamics,3,B,2.75,84
+STU-7044,Female,Psychology,Fall 2023,Developmental Psychology,4,C,1.79,83
+STU-7044,Female,Psychology,Spring 2024,Behavioral Neuroscience,4,A,3.97,89
+STU-7044,Female,Psychology,Fall 2024,Cognitive Psychology,3,F,0.0,40
+STU-7044,Female,Psychology,Spring 2025,Research Methods,4,A,3.84,93
+STU-7044,Female,Psychology,Spring 2025,Research Methods,3,F,0.27,30
+STU-7045,Male,Mathematics,Fall 2023,Real Analysis,4,C,2.2,72
+STU-7045,Male,Mathematics,Spring 2024,Linear Algebra,4,D,1.19,57
+STU-7045,Male,Mathematics,Fall 2024,Calculus II,3,D,1.01,64
+STU-7045,Male,Mathematics,Spring 2025,Calculus II,4,C,1.9,87
+STU-7046,Female,Biology,Fall 2023,General Biology,3,A,4.0,97
+STU-7046,Female,Biology,Spring 2024,Genetics,3,C,1.88,83
+STU-7046,Female,Biology,Fall 2024,Human Anatomy,4,F,0.0,57
+STU-7046,Female,Biology,Spring 2025,Microbiology,3,B,3.16,93
+STU-7046,Female,Biology,Spring 2025,Biochemistry,3,B,2.88,85
+STU-7047,Male,Computer Science,Fall 2023,Database Systems,3,B,2.71,80
+STU-7047,Male,Computer Science,Spring 2024,Intro to Programming,4,C,1.71,79
+STU-7047,Male,Computer Science,Fall 2024,Data Structures,3,B,3.25,79
+STU-7047,Male,Computer Science,Spring 2025,Intro to Programming,3,C,1.79,83
+STU-7048,Female,Biology,Fall 2023,Microbiology,3,A,4.0,96
+STU-7048,Female,Biology,Spring 2024,Genetics,3,D,1.07,74
+STU-7048,Female,Biology,Fall 2024,Biochemistry,4,F,0.0,59
+STU-7049,Female,Business Administration,Fall 2023,Business Statistics,3,A,4.0,95
+STU-7049,Female,Business Administration,Spring 2024,Strategic Management,4,D,0.71,72
+STU-7049,Female,Business Administration,Fall 2024,Business Statistics,3,F,0.12,57
+STU-7049,Female,Business Administration,Spring 2025,Organizational Behavior,3,D,1.24,56
+STU-7049,Female,Business Administration,Spring 2025,Strategic Management,3,B,3.29,90
+STU-7050,Female,Economics,Fall 2023,Macroeconomics,4,C,2.08,72
+STU-7050,Female,Economics,Spring 2024,Public Finance,4,B,3.18,80
+STU-7050,Female,Economics,Fall 2024,International Economics,4,A,3.72,91
+STU-7051,Male,Biology,Fall 2023,Genetics,3,F,0.25,40
+STU-7051,Male,Biology,Spring 2024,Cell Biology,4,C,2.14,87
+STU-7051,Male,Biology,Fall 2024,Molecular Biology,3,B,2.8,94
+STU-7051,Male,Biology,Spring 2025,Biochemistry,3,A,4.0,89
+STU-7051,Male,Biology,Spring 2025,General Biology,4,B,2.76,83
+STU-7052,Female,English Literature,Fall 2023,Literary Theory,4,C,2.3,72
+STU-7052,Female,English Literature,Spring 2024,Literary Theory,4,C,1.92,86
+STU-7052,Female,English Literature,Fall 2024,Modern Poetry,3,B,2.88,83
+STU-7052,Female,English Literature,Spring 2025,Shakespeare,4,D,1.26,71
+STU-7052,Female,English Literature,Spring 2025,Literary Theory,3,F,0.1,41
+STU-7053,Female,Psychology,Fall 2023,Developmental Psychology,4,C,1.89,65
+STU-7053,Female,Psychology,Spring 2024,Developmental Psychology,3,C,1.84,66
+STU-7053,Female,Psychology,Fall 2024,Developmental Psychology,3,B,3.06,79
+STU-7053,Female,Psychology,Spring 2025,Research Methods,3,B,3.02,91
+STU-7053,Female,Psychology,Spring 2025,Developmental Psychology,3,C,2.19,70
+STU-7054,Male,Mechanical Engineering,Fall 2023,Fluid Mechanics,4,B,3.23,89
+STU-7054,Male,Mechanical Engineering,Spring 2024,Thermodynamics,4,B,3.21,93
+STU-7054,Male,Mechanical Engineering,Fall 2024,Thermodynamics,4,C,2.16,77
+STU-7054,Male,Mechanical Engineering,Spring 2025,Fluid Mechanics,4,C,2.3,75
+STU-7054,Male,Mechanical Engineering,Spring 2025,Machine Design,4,C,1.83,80
+STU-7055,Male,Chemistry,Fall 2023,Physical Chemistry,4,D,0.85,67
+STU-7055,Male,Chemistry,Spring 2024,Physical Chemistry,3,B,2.99,86
+STU-7055,Male,Chemistry,Fall 2024,Environmental Chemistry,3,D,1.23,54
+STU-7055,Male,Chemistry,Spring 2025,Analytical Chemistry,4,B,2.96,83
+STU-7056,Female,Business Administration,Fall 2023,Financial Accounting,3,D,0.8,60
+STU-7056,Female,Business Administration,Spring 2024,Strategic Management,4,F,0.0,47
+STU-7056,Female,Business Administration,Fall 2024,Financial Accounting,4,C,2.21,66
+STU-7056,Female,Business Administration,Spring 2025,Strategic Management,3,B,3.19,92
+STU-7056,Female,Business Administration,Spring 2025,Strategic Management,3,B,2.93,89
+STU-7057,Male,Chemistry,Fall 2023,General Chemistry,3,D,1.21,73
+STU-7057,Male,Chemistry,Spring 2024,Physical Chemistry,4,C,2.28,69
+STU-7057,Male,Chemistry,Fall 2024,Biochemistry,3,F,0.08,55
+STU-7057,Male,Chemistry,Spring 2025,Environmental Chemistry,4,B,3.05,80
+STU-7057,Male,Chemistry,Spring 2025,Analytical Chemistry,4,C,2.04,66
+STU-7058,Male,Business Administration,Fall 2023,Marketing Fundamentals,3,C,1.97,81
+STU-7058,Male,Business Administration,Spring 2024,Principles of Management,3,B,2.98,88
+STU-7058,Male,Business Administration,Fall 2024,Business Law,3,B,3.1,90
+STU-7059,Female,Business Administration,Fall 2023,Operations Management,4,B,3.06,91
+STU-7059,Female,Business Administration,Spring 2024,Business Statistics,3,C,1.98,66
+STU-7059,Female,Business Administration,Fall 2024,Organizational Behavior,3,A,3.96,96
+STU-7059,Female,Business Administration,Spring 2025,Business Law,3,B,2.93,84
+STU-7059,Female,Business Administration,Spring 2025,Business Law,3,F,0.0,53
+STU-7060,Female,Computer Science,Fall 2023,Computer Networks,4,B,3.16,80
+STU-7060,Female,Computer Science,Spring 2024,Database Systems,4,C,2.05,66
+STU-7060,Female,Computer Science,Fall 2024,Machine Learning,4,F,0.0,41
+STU-7060,Female,Computer Science,Spring 2025,Data Structures,3,F,0.0,33
+STU-7061,Female,Mechanical Engineering,Fall 2023,Control Systems,3,A,3.71,89
+STU-7061,Female,Mechanical Engineering,Spring 2024,Machine Design,3,B,2.94,85
+STU-7061,Female,Mechanical Engineering,Fall 2024,Materials Science,4,C,2.04,77
+STU-7061,Female,Mechanical Engineering,Spring 2025,Fluid Mechanics,3,B,2.73,79
+STU-7061,Female,Mechanical Engineering,Spring 2025,Materials Science,4,F,0.0,33
+STU-7062,Male,English Literature,Fall 2023,Literary Theory,4,B,3.03,92
+STU-7062,Male,English Literature,Spring 2024,Literary Theory,4,A,3.93,94
+STU-7062,Male,English Literature,Fall 2024,Literary Theory,4,B,3.01,89
+STU-7063,Male,Mechanical Engineering,Fall 2023,Control Systems,3,B,2.82,92
+STU-7063,Male,Mechanical Engineering,Spring 2024,Engineering Mechanics,4,F,0.2,49
+STU-7063,Male,Mechanical Engineering,Fall 2024,Thermodynamics,4,A,4.0,89
+STU-7063,Male,Mechanical Engineering,Spring 2025,Engineering Mechanics,3,B,2.77,84
+STU-7063,Male,Mechanical Engineering,Spring 2025,Engineering Mechanics,4,A,4.0,91
+STU-7064,Male,Nursing,Fall 2023,Mental Health Nursing,3,C,2.07,77
+STU-7064,Male,Nursing,Spring 2024,Mental Health Nursing,3,B,2.95,86
+STU-7064,Male,Nursing,Fall 2024,Medical-Surgical Nursing,4,F,0.0,48
+STU-7064,Male,Nursing,Spring 2025,Nursing Research,4,B,3.22,89
+STU-7065,Male,Computer Science,Fall 2023,Algorithms,3,C,2.28,74
+STU-7065,Male,Computer Science,Spring 2024,Web Development,4,C,2.21,82
+STU-7065,Male,Computer Science,Fall 2024,Machine Learning,3,A,3.79,99
+STU-7065,Male,Computer Science,Spring 2025,Algorithms,4,A,4.0,98
+STU-7066,Female,Nursing,Fall 2023,Health Assessment,4,B,3.29,91
+STU-7066,Female,Nursing,Spring 2024,Nursing Research,3,B,3.16,79
+STU-7066,Female,Nursing,Fall 2024,Pharmacology,3,C,2.27,72
+STU-7066,Female,Nursing,Spring 2025,Mental Health Nursing,3,B,3.09,88
+STU-7066,Female,Nursing,Spring 2025,Medical-Surgical Nursing,4,C,1.9,86
+STU-7067,Female,Business Administration,Fall 2023,Financial Accounting,3,C,1.84,80
+STU-7067,Female,Business Administration,Spring 2024,Organizational Behavior,4,C,2.22,70
+STU-7067,Female,Business Administration,Fall 2024,Financial Accounting,4,A,4.0,93
+STU-7067,Female,Business Administration,Spring 2025,Marketing Fundamentals,4,D,0.78,54
+STU-7067,Female,Business Administration,Spring 2025,Marketing Fundamentals,3,C,2.03,88
+STU-7068,Female,Mechanical Engineering,Fall 2023,Materials Science,3,D,0.99,60
+STU-7068,Female,Mechanical Engineering,Spring 2024,Engineering Mechanics,4,B,3.2,83
+STU-7068,Female,Mechanical Engineering,Fall 2024,Materials Science,4,C,2.07,69
+STU-7069,Female,Biology,Fall 2023,Ecology,4,B,3.24,87
+STU-7069,Female,Biology,Spring 2024,Cell Biology,3,A,3.79,94
+STU-7069,Female,Biology,Fall 2024,Cell Biology,3,B,3.25,84
+STU-7069,Female,Biology,Spring 2025,Human Anatomy,4,C,1.9,86
+STU-7070,Male,Mechanical Engineering,Fall 2023,Manufacturing Processes,3,B,2.78,85
+STU-7070,Male,Mechanical Engineering,Spring 2024,Heat Transfer,4,A,4.0,88
+STU-7070,Male,Mechanical Engineering,Fall 2024,Thermodynamics,3,A,3.86,99
+STU-7071,Female,English Literature,Fall 2023,World Literature,3,B,3.2,93
+STU-7071,Female,English Literature,Spring 2024,American Literature,3,A,4.0,93
+STU-7071,Female,English Literature,Fall 2024,American Literature,3,B,2.9,93
+STU-7072,Male,Computer Science,Fall 2023,Data Structures,3,A,3.98,99
+STU-7072,Male,Computer Science,Spring 2024,Database Systems,4,C,2.22,69
+STU-7072,Male,Computer Science,Fall 2024,Computer Networks,3,F,0.0,35
+STU-7072,Male,Computer Science,Spring 2025,Operating Systems,3,B,3.12,81
+STU-7073,Female,Economics,Fall 2023,Econometrics,3,B,3.24,89
+STU-7073,Female,Economics,Spring 2024,Econometrics,3,B,3.01,89
+STU-7073,Female,Economics,Fall 2024,Public Finance,4,C,2.04,77
+STU-7073,Female,Economics,Spring 2025,Macroeconomics,4,D,0.8,65
+STU-7073,Female,Economics,Spring 2025,Labor Economics,3,B,2.9,90
+STU-7074,Female,Computer Science,Fall 2023,Algorithms,4,A,4.0,92
+STU-7074,Female,Computer Science,Spring 2024,Algorithms,4,A,3.86,95
+STU-7074,Female,Computer Science,Fall 2024,Machine Learning,4,B,3.08,92
+STU-7074,Female,Computer Science,Spring 2025,Computer Networks,3,C,1.97,87
+STU-7075,Male,Biology,Fall 2023,Ecology,3,F,0.0,31
+STU-7075,Male,Biology,Spring 2024,Cell Biology,3,C,1.94,86
+STU-7075,Male,Biology,Fall 2024,Molecular Biology,3,B,2.79,85
+STU-7075,Male,Biology,Spring 2025,Biochemistry,4,B,3.28,81
+STU-7075,Male,Biology,Spring 2025,Molecular Biology,4,B,3.11,91
+STU-7076,Female,English Literature,Fall 2023,Composition I,4,C,1.82,73
+STU-7076,Female,English Literature,Spring 2024,Creative Writing,4,A,3.79,99
+STU-7076,Female,English Literature,Fall 2024,Composition I,4,C,1.88,67
+STU-7076,Female,English Literature,Spring 2025,World Literature,4,B,2.81,78
+STU-7076,Female,English Literature,Spring 2025,Composition I,4,B,2.9,78
+STU-7077,Male,Biology,Fall 2023,Microbiology,3,C,1.93,83
+STU-7077,Male,Biology,Spring 2024,Human Anatomy,3,B,3.06,90
+STU-7077,Male,Biology,Fall 2024,Molecular Biology,3,F,0.21,31
+STU-7077,Male,Biology,Spring 2025,Biochemistry,4,C,2.0,67
+STU-7077,Male,Biology,Spring 2025,Genetics,4,D,0.95,70
+STU-7078,Male,Chemistry,Fall 2023,General Chemistry,3,C,2.0,85
+STU-7078,Male,Chemistry,Spring 2024,Organic Chemistry,4,B,3.09,87
+STU-7078,Male,Chemistry,Fall 2024,General Chemistry,3,B,2.72,90
+STU-7079,Female,Psychology,Fall 2023,Intro to Psychology,4,B,3.22,82
+STU-7079,Female,Psychology,Spring 2024,Intro to Psychology,3,A,3.92,88
+STU-7079,Female,Psychology,Fall 2024,Research Methods,4,D,1.19,54
+STU-7079,Female,Psychology,Spring 2025,Social Psychology,4,D,1.26,54
+STU-7080,Male,Nursing,Fall 2023,Health Assessment,4,A,3.73,91
+STU-7080,Male,Nursing,Spring 2024,Anatomy & Physiology,4,B,2.74,88
+STU-7080,Male,Nursing,Fall 2024,Medical-Surgical Nursing,3,A,3.83,96
+STU-7080,Male,Nursing,Spring 2025,Mental Health Nursing,3,D,1.11,70
+STU-7081,Male,Business Administration,Fall 2023,Organizational Behavior,4,A,3.94,96
+STU-7081,Male,Business Administration,Spring 2024,Marketing Fundamentals,4,B,3.22,86
+STU-7081,Male,Business Administration,Fall 2024,Principles of Management,3,A,3.94,97
+STU-7082,Female,Mathematics,Fall 2023,Differential Equations,4,C,2.21,69
+STU-7082,Female,Mathematics,Spring 2024,Linear Algebra,4,A,4.0,91
+STU-7082,Female,Mathematics,Fall 2024,Calculus I,4,B,2.86,93
+STU-7083,Male,English Literature,Fall 2023,Composition I,4,B,3.03,91
+STU-7083,Male,English Literature,Spring 2024,World Literature,4,A,3.71,93
+STU-7083,Male,English Literature,Fall 2024,World Literature,4,B,3.2,90
+STU-7083,Male,English Literature,Spring 2025,Modern Poetry,3,D,1.25,65
+STU-7083,Male,English Literature,Spring 2025,British Literature,3,B,2.95,94
+STU-7084,Female,Psychology,Fall 2023,Intro to Psychology,3,D,1.17,61
+STU-7084,Female,Psychology,Spring 2024,Cognitive Psychology,3,A,4.0,89
+STU-7084,Female,Psychology,Fall 2024,Abnormal Psychology,4,A,3.89,88
+STU-7085,Male,Nursing,Fall 2023,Medical-Surgical Nursing,4,D,0.97,55
+STU-7085,Male,Nursing,Spring 2024,Medical-Surgical Nursing,4,B,3.02,86
+STU-7085,Male,Nursing,Fall 2024,Anatomy & Physiology,3,C,2.08,78
+STU-7086,Male,English Literature,Fall 2023,American Literature,3,A,3.88,95
+STU-7086,Male,English Literature,Spring 2024,Literary Theory,3,B,3.01,93
+STU-7086,Male,English Literature,Fall 2024,Literary Theory,4,B,2.83,84
+STU-7086,Male,English Literature,Spring 2025,Composition I,3,C,2.23,78
+STU-7087,Female,Psychology,Fall 2023,Cognitive Psychology,3,A,4.0,91
+STU-7087,Female,Psychology,Spring 2024,Cognitive Psychology,4,C,1.77,78
+STU-7087,Female,Psychology,Fall 2024,Behavioral Neuroscience,4,C,2.04,75
+STU-7087,Female,Psychology,Spring 2025,Social Psychology,3,B,3.02,84
+STU-7087,Female,Psychology,Spring 2025,Research Methods,4,C,1.92,74
+STU-7088,Male,Mathematics,Fall 2023,Linear Algebra,3,C,2.13,79
+STU-7088,Male,Mathematics,Spring 2024,Calculus I,3,B,2.89,79
+STU-7088,Male,Mathematics,Fall 2024,Calculus II,3,A,4.0,91
+STU-7088,Male,Mathematics,Spring 2025,Calculus II,4,A,4.0,91
+STU-7089,Female,Nursing,Fall 2023,Nursing Research,3,F,0.14,31
+STU-7089,Female,Nursing,Spring 2024,Nursing Research,3,B,2.85,81
+STU-7089,Female,Nursing,Fall 2024,Pediatric Nursing,3,B,3.12,85
+STU-7089,Female,Nursing,Spring 2025,Anatomy & Physiology,3,D,0.74,72
+STU-7090,Male,Chemistry,Fall 2023,General Chemistry,3,A,4.0,98
+STU-7090,Male,Chemistry,Spring 2024,Inorganic Chemistry,4,A,4.0,89
+STU-7090,Male,Chemistry,Fall 2024,Environmental Chemistry,4,B,2.96,84
+STU-7091,Male,English Literature,Fall 2023,Composition I,3,A,4.0,96
+STU-7091,Male,English Literature,Spring 2024,World Literature,3,B,3.14,86
+STU-7091,Male,English Literature,Fall 2024,Shakespeare,3,B,3.23,88
+STU-7091,Male,English Literature,Spring 2025,World Literature,3,F,0.03,42
+STU-7092,Male,Psychology,Fall 2023,Intro to Psychology,3,C,2.27,73
+STU-7092,Male,Psychology,Spring 2024,Cognitive Psychology,3,B,2.75,83
+STU-7092,Male,Psychology,Fall 2024,Cognitive Psychology,4,C,1.76,66
+STU-7093,Male,Biology,Fall 2023,Genetics,3,B,2.91,79
+STU-7093,Male,Biology,Spring 2024,Biochemistry,3,A,3.83,89
+STU-7093,Male,Biology,Fall 2024,Human Anatomy,4,F,0.0,35
+STU-7094,Female,Mathematics,Fall 2023,Real Analysis,4,A,3.75,89
+STU-7094,Female,Mathematics,Spring 2024,Real Analysis,3,A,3.92,88
+STU-7094,Female,Mathematics,Fall 2024,Discrete Mathematics,4,A,4.0,91
+STU-7094,Female,Mathematics,Spring 2025,Probability & Statistics,4,C,1.82,81
+STU-7094,Female,Mathematics,Spring 2025,Differential Equations,4,C,1.73,85
+STU-7095,Male,Biology,Fall 2023,Ecology,3,C,1.98,87
+STU-7095,Male,Biology,Spring 2024,Microbiology,4,A,3.75,91
+STU-7095,Male,Biology,Fall 2024,Microbiology,4,C,1.9,69
+STU-7096,Male,Nursing,Fall 2023,Pharmacology,3,C,1.97,82
+STU-7096,Male,Nursing,Spring 2024,Mental Health Nursing,4,B,3.14,85
+STU-7096,Male,Nursing,Fall 2024,Nursing Research,4,A,3.91,91
+STU-7097,Male,Mechanical Engineering,Fall 2023,Engineering Mechanics,3,B,2.97,87
+STU-7097,Male,Mechanical Engineering,Spring 2024,Control Systems,4,B,3.02,83
+STU-7097,Male,Mechanical Engineering,Fall 2024,Machine Design,3,A,3.9,90
+STU-7097,Male,Mechanical Engineering,Spring 2025,Engineering Mechanics,3,D,0.88,71
+STU-7097,Male,Mechanical Engineering,Spring 2025,Heat Transfer,3,A,4.0,95
+STU-7098,Male,Computer Science,Fall 2023,Algorithms,4,C,2.01,78
+STU-7098,Male,Computer Science,Spring 2024,Web Development,3,C,1.82,69
+STU-7098,Male,Computer Science,Fall 2024,Web Development,4,B,3.22,93
+STU-7098,Male,Computer Science,Spring 2025,Machine Learning,3,B,3.17,93
+STU-7098,Male,Computer Science,Spring 2025,Database Systems,3,B,3.27,93
+STU-7099,Female,Nursing,Fall 2023,Community Health,4,A,3.81,93
+STU-7099,Female,Nursing,Spring 2024,Health Assessment,4,A,4.0,92
+STU-7099,Female,Nursing,Fall 2024,Medical-Surgical Nursing,4,A,4.0,100
+STU-7100,Male,Business Administration,Fall 2023,Operations Management,3,F,0.0,39
+STU-7100,Male,Business Administration,Spring 2024,Marketing Fundamentals,4,A,4.0,95
+STU-7100,Male,Business Administration,Fall 2024,Principles of Management,3,B,3.05,94
+STU-7100,Male,Business Administration,Spring 2025,Principles of Management,4,C,2.18,68
+STU-7101,Male,Mechanical Engineering,Fall 2023,Machine Design,4,C,1.75,80
+STU-7101,Male,Mechanical Engineering,Spring 2024,Heat Transfer,4,C,2.2,81
+STU-7101,Male,Mechanical Engineering,Fall 2024,Manufacturing Processes,4,D,1.22,60
+STU-7101,Male,Mechanical Engineering,Spring 2025,Fluid Mechanics,4,D,1.22,53
+STU-7101,Male,Mechanical Engineering,Spring 2025,Materials Science,4,B,2.72,85
+STU-7102,Female,Computer Science,Fall 2023,Algorithms,3,C,1.9,81
+STU-7102,Female,Computer Science,Spring 2024,Data Structures,3,D,1.23,52
+STU-7102,Female,Computer Science,Fall 2024,Database Systems,4,B,3.27,87
+STU-7102,Female,Computer Science,Spring 2025,Operating Systems,3,A,4.0,91
+STU-7102,Female,Computer Science,Spring 2025,Machine Learning,3,C,2.03,81
+STU-7103,Male,Psychology,Fall 2023,Research Methods,3,A,4.0,94
+STU-7103,Male,Psychology,Spring 2024,Cognitive Psychology,4,C,1.71,72
+STU-7103,Male,Psychology,Fall 2024,Social Psychology,4,B,2.79,79
+STU-7104,Female,Business Administration,Fall 2023,Marketing Fundamentals,3,C,2.17,71
+STU-7104,Female,Business Administration,Spring 2024,Financial Accounting,4,A,4.0,89
+STU-7104,Female,Business Administration,Fall 2024,Operations Management,4,B,2.76,79
+STU-7104,Female,Business Administration,Spring 2025,Marketing Fundamentals,4,C,2.17,67
+STU-7105,Male,Mechanical Engineering,Fall 2023,Manufacturing Processes,3,B,2.75,91
+STU-7105,Male,Mechanical Engineering,Spring 2024,Materials Science,4,C,2.23,73
+STU-7105,Male,Mechanical Engineering,Fall 2024,Machine Design,3,F,0.0,55
+STU-7106,Male,Mathematics,Fall 2023,Calculus II,4,B,2.97,94
+STU-7106,Male,Mathematics,Spring 2024,Probability & Statistics,4,C,1.82,72
+STU-7106,Male,Mathematics,Fall 2024,Abstract Algebra,3,C,1.78,84
+STU-7106,Male,Mathematics,Spring 2025,Differential Equations,3,C,2.06,81
+STU-7107,Male,Mechanical Engineering,Fall 2023,Engineering Mechanics,4,C,1.97,74
+STU-7107,Male,Mechanical Engineering,Spring 2024,Control Systems,3,D,1.26,64
+STU-7107,Male,Mechanical Engineering,Fall 2024,Thermodynamics,4,A,3.99,97
+STU-7108,Male,English Literature,Fall 2023,World Literature,3,D,0.75,57
+STU-7108,Male,English Literature,Spring 2024,Literary Theory,3,B,3.21,82
+STU-7108,Male,English Literature,Fall 2024,Modern Poetry,3,A,3.85,90
+STU-7108,Male,English Literature,Spring 2025,American Literature,4,D,0.82,53
+STU-7108,Male,English Literature,Spring 2025,Shakespeare,3,A,4.0,96
+STU-7109,Male,Business Administration,Fall 2023,Principles of Management,4,B,2.98,80
+STU-7109,Male,Business Administration,Spring 2024,Financial Accounting,4,B,2.86,83
+STU-7109,Male,Business Administration,Fall 2024,Principles of Management,3,A,3.94,94
+STU-7109,Male,Business Administration,Spring 2025,Marketing Fundamentals,4,C,2.11,67
+STU-7110,Female,Economics,Fall 2023,Public Finance,4,B,3.14,95
+STU-7110,Female,Economics,Spring 2024,Microeconomics,3,F,0.06,40
+STU-7110,Female,Economics,Fall 2024,Microeconomics,4,B,2.93,88
+STU-7110,Female,Economics,Spring 2025,Macroeconomics,3,C,2.16,85
+STU-7110,Female,Economics,Spring 2025,Game Theory,3,D,1.23,58
+STU-7111,Male,Psychology,Fall 2023,Intro to Psychology,4,F,0.0,47
+STU-7111,Male,Psychology,Spring 2024,Research Methods,3,C,2.24,87
+STU-7111,Male,Psychology,Fall 2024,Research Methods,3,B,2.91,80
+STU-7111,Male,Psychology,Spring 2025,Intro to Psychology,4,A,4.0,92
+STU-7111,Male,Psychology,Spring 2025,Abnormal Psychology,3,C,1.72,82
+STU-7112,Male,Economics,Fall 2023,Labor Economics,3,B,2.78,89
+STU-7112,Male,Economics,Spring 2024,Macroeconomics,4,C,2.27,79
+STU-7112,Male,Economics,Fall 2024,Macroeconomics,3,B,2.74,93
+STU-7112,Male,Economics,Spring 2025,Development Economics,3,B,3.06,80
+STU-7113,Male,Chemistry,Fall 2023,Organic Chemistry,3,B,2.94,83
+STU-7113,Male,Chemistry,Spring 2024,Organic Chemistry,3,B,2.76,83
+STU-7113,Male,Chemistry,Fall 2024,Inorganic Chemistry,4,A,3.7,94
+STU-7114,Female,Chemistry,Fall 2023,Physical Chemistry,4,A,4.0,91
+STU-7114,Female,Chemistry,Spring 2024,Physical Chemistry,4,D,0.83,55
+STU-7114,Female,Chemistry,Fall 2024,Biochemistry,3,B,3.1,83
+STU-7114,Female,Chemistry,Spring 2025,Physical Chemistry,4,F,0.17,33
+STU-7114,Female,Chemistry,Spring 2025,Physical Chemistry,4,B,2.79,80
+STU-7115,Male,Computer Science,Fall 2023,Web Development,3,B,2.97,84
+STU-7115,Male,Computer Science,Spring 2024,Computer Networks,3,C,2.04,76
+STU-7115,Male,Computer Science,Fall 2024,Algorithms,3,B,2.83,80
+STU-7116,Female,Economics,Fall 2023,Macroeconomics,4,B,2.97,85
+STU-7116,Female,Economics,Spring 2024,Public Finance,3,C,1.96,80
+STU-7116,Female,Economics,Fall 2024,Econometrics,3,C,2.09,84
+STU-7117,Male,Mathematics,Fall 2023,Probability & Statistics,3,C,2.26,66
+STU-7117,Male,Mathematics,Spring 2024,Differential Equations,3,B,2.99,79
+STU-7117,Male,Mathematics,Fall 2024,Abstract Algebra,3,C,2.28,69
+STU-7118,Female,Business Administration,Fall 2023,Business Law,3,C,1.78,72
+STU-7118,Female,Business Administration,Spring 2024,Organizational Behavior,3,C,1.85,86
+STU-7118,Female,Business Administration,Fall 2024,Marketing Fundamentals,4,B,2.79,79
+STU-7118,Female,Business Administration,Spring 2025,Business Statistics,4,A,4.0,98
+STU-7118,Female,Business Administration,Spring 2025,Strategic Management,4,C,2.18,67
+STU-7119,Female,Computer Science,Fall 2023,Operating Systems,3,B,2.85,81
+STU-7119,Female,Computer Science,Spring 2024,Operating Systems,3,D,1.03,51
+STU-7119,Female,Computer Science,Fall 2024,Data Structures,4,D,0.73,65
+STU-7119,Female,Computer Science,Spring 2025,Algorithms,3,B,3.3,79
+STU-7119,Female,Computer Science,Spring 2025,Database Systems,3,A,3.8,92
+STU-7120,Female,Computer Science,Fall 2023,Machine Learning,3,D,0.86,62
+STU-7120,Female,Computer Science,Spring 2024,Data Structures,4,C,2.15,69
+STU-7120,Female,Computer Science,Fall 2024,Computer Networks,4,C,1.91,81
+STU-7121,Male,Computer Science,Fall 2023,Web Development,3,B,3.06,91
+STU-7121,Male,Computer Science,Spring 2024,Database Systems,3,D,0.9,71
+STU-7121,Male,Computer Science,Fall 2024,Web Development,4,C,2.03,78
+STU-7121,Male,Computer Science,Spring 2025,Computer Networks,4,B,3.27,80
+STU-7121,Male,Computer Science,Spring 2025,Machine Learning,4,B,3.07,92
+STU-7122,Female,Biology,Fall 2023,General Biology,3,F,0.15,47
+STU-7122,Female,Biology,Spring 2024,Biochemistry,4,C,1.89,71
+STU-7122,Female,Biology,Fall 2024,Human Anatomy,3,B,2.79,79
+STU-7122,Female,Biology,Spring 2025,Biochemistry,4,C,1.73,69
+STU-7123,Female,Chemistry,Fall 2023,Environmental Chemistry,3,B,3.24,81
+STU-7123,Female,Chemistry,Spring 2024,Physical Chemistry,3,A,3.81,89
+STU-7123,Female,Chemistry,Fall 2024,General Chemistry,3,B,2.97,86
+STU-7123,Female,Chemistry,Spring 2025,Organic Chemistry,3,B,3.22,92
+STU-7123,Female,Chemistry,Spring 2025,Physical Chemistry,4,C,1.91,85
+STU-7124,Female,Mathematics,Fall 2023,Differential Equations,3,F,0.17,54
+STU-7124,Female,Mathematics,Spring 2024,Probability & Statistics,4,A,4.0,100
+STU-7124,Female,Mathematics,Fall 2024,Discrete Mathematics,4,B,3.26,83
+STU-7124,Female,Mathematics,Spring 2025,Real Analysis,3,B,2.77,78
+STU-7125,Female,Nursing,Fall 2023,Health Assessment,4,B,2.81,85
+STU-7125,Female,Nursing,Spring 2024,Nursing Research,4,C,2.21,81
+STU-7125,Female,Nursing,Fall 2024,Pediatric Nursing,4,A,3.73,96
+STU-7125,Female,Nursing,Spring 2025,Health Assessment,4,B,2.94,88
+STU-7125,Female,Nursing,Spring 2025,Community Health,3,D,1.12,66
+STU-7126,Male,Business Administration,Fall 2023,Organizational Behavior,4,B,3.29,82
+STU-7126,Male,Business Administration,Spring 2024,Operations Management,3,A,4.0,88
+STU-7126,Male,Business Administration,Fall 2024,Marketing Fundamentals,3,F,0.02,39
+STU-7126,Male,Business Administration,Spring 2025,Organizational Behavior,4,C,1.71,70
+STU-7127,Female,Mathematics,Fall 2023,Calculus I,3,D,1.2,54
+STU-7127,Female,Mathematics,Spring 2024,Discrete Mathematics,4,A,3.79,98
+STU-7127,Female,Mathematics,Fall 2024,Real Analysis,3,B,3.24,91
+STU-7127,Female,Mathematics,Spring 2025,Linear Algebra,4,C,1.86,79
+STU-7127,Female,Mathematics,Spring 2025,Probability & Statistics,3,A,3.73,95
+STU-7128,Female,Chemistry,Fall 2023,Environmental Chemistry,3,B,3.14,87
+STU-7128,Female,Chemistry,Spring 2024,Analytical Chemistry,3,C,1.79,75
+STU-7128,Female,Chemistry,Fall 2024,Environmental Chemistry,3,C,2.02,76
+STU-7129,Male,Computer Science,Fall 2023,Database Systems,3,A,4.0,97
+STU-7129,Male,Computer Science,Spring 2024,Operating Systems,4,B,3.03,83
+STU-7129,Male,Computer Science,Fall 2024,Machine Learning,4,B,3.29,80
+STU-7129,Male,Computer Science,Spring 2025,Database Systems,3,B,2.82,89
+STU-7129,Male,Computer Science,Spring 2025,Intro to Programming,4,B,3.18,80
+STU-7130,Female,Psychology,Fall 2023,Research Methods,4,C,2.0,68
+STU-7130,Female,Psychology,Spring 2024,Cognitive Psychology,4,C,1.94,85
+STU-7130,Female,Psychology,Fall 2024,Clinical Psychology,3,B,2.99,87
+STU-7130,Female,Psychology,Spring 2025,Abnormal Psychology,4,C,2.02,75
+STU-7131,Male,Biology,Fall 2023,Ecology,4,C,2.29,72
+STU-7131,Male,Biology,Spring 2024,Ecology,4,B,2.75,89
+STU-7131,Male,Biology,Fall 2024,Genetics,3,A,4.0,95
+STU-7131,Male,Biology,Spring 2025,Microbiology,4,B,3.19,89
+STU-7132,Female,Psychology,Fall 2023,Behavioral Neuroscience,4,B,3.28,81
+STU-7132,Female,Psychology,Spring 2024,Social Psychology,3,B,3.28,84
+STU-7132,Female,Psychology,Fall 2024,Social Psychology,3,B,2.71,79
+STU-7132,Female,Psychology,Spring 2025,Clinical Psychology,3,C,2.1,83
+STU-7133,Male,Nursing,Fall 2023,Medical-Surgical Nursing,3,A,4.0,90
+STU-7133,Male,Nursing,Spring 2024,Community Health,4,D,1.21,62
+STU-7133,Male,Nursing,Fall 2024,Community Health,3,C,1.88,65
+STU-7134,Female,English Literature,Fall 2023,World Literature,3,C,1.87,74
+STU-7134,Female,English Literature,Spring 2024,American Literature,3,B,3.2,80
+STU-7134,Female,English Literature,Fall 2024,Creative Writing,3,D,1.11,52
+STU-7134,Female,English Literature,Spring 2025,American Literature,4,B,2.94,82
+STU-7134,Female,English Literature,Spring 2025,British Literature,3,B,3.01,94
+STU-7135,Female,Chemistry,Fall 2023,General Chemistry,4,D,1.15,60
+STU-7135,Female,Chemistry,Spring 2024,Physical Chemistry,4,C,2.25,70
+STU-7135,Female,Chemistry,Fall 2024,General Chemistry,3,C,1.75,65
+STU-7135,Female,Chemistry,Spring 2025,Polymer Chemistry,4,B,3.01,82
+STU-7135,Female,Chemistry,Spring 2025,Physical Chemistry,3,B,3.12,92
+STU-7136,Female,Chemistry,Fall 2023,Analytical Chemistry,3,A,4.0,99
+STU-7136,Female,Chemistry,Spring 2024,Inorganic Chemistry,4,B,2.95,93
+STU-7136,Female,Chemistry,Fall 2024,Organic Chemistry,4,A,3.96,99
+STU-7136,Female,Chemistry,Spring 2025,Analytical Chemistry,3,B,2.84,81
+STU-7137,Female,Psychology,Fall 2023,Social Psychology,4,A,4.0,92
+STU-7137,Female,Psychology,Spring 2024,Cognitive Psychology,3,A,3.78,94
+STU-7137,Female,Psychology,Fall 2024,Developmental Psychology,3,F,0.0,41
+STU-7137,Female,Psychology,Spring 2025,Intro to Psychology,4,C,1.85,74
+STU-7137,Female,Psychology,Spring 2025,Abnormal Psychology,4,B,3.28,82
+STU-7138,Female,Mechanical Engineering,Fall 2023,Machine Design,4,B,2.9,88
+STU-7138,Female,Mechanical Engineering,Spring 2024,Fluid Mechanics,4,C,1.75,74
+STU-7138,Female,Mechanical Engineering,Fall 2024,Materials Science,3,F,0.13,39
+STU-7139,Female,Computer Science,Fall 2023,Web Development,3,B,2.79,83
+STU-7139,Female,Computer Science,Spring 2024,Intro to Programming,4,F,0.0,40
+STU-7139,Female,Computer Science,Fall 2024,Algorithms,4,B,2.96,93
+STU-7140,Female,Biology,Fall 2023,Cell Biology,3,A,3.91,98
+STU-7140,Female,Biology,Spring 2024,Cell Biology,3,B,2.77,83
+STU-7140,Female,Biology,Fall 2024,Biochemistry,4,D,1.1,74
+STU-7140,Female,Biology,Spring 2025,Biochemistry,3,B,3.02,79
+STU-7140,Female,Biology,Spring 2025,Human Anatomy,4,B,3.02,85
+STU-7141,Female,Business Administration,Fall 2023,Strategic Management,4,C,1.76,74
+STU-7141,Female,Business Administration,Spring 2024,Financial Accounting,4,A,4.0,98
+STU-7141,Female,Business Administration,Fall 2024,Operations Management,4,B,3.05,88
+STU-7141,Female,Business Administration,Spring 2025,Operations Management,4,C,2.3,79
+STU-7141,Female,Business Administration,Spring 2025,Marketing Fundamentals,4,B,3.14,82
+STU-7142,Male,Economics,Fall 2023,Game Theory,3,B,2.86,80
+STU-7142,Male,Economics,Spring 2024,Game Theory,3,B,3.18,95
+STU-7142,Male,Economics,Fall 2024,Labor Economics,3,A,3.78,99
+STU-7142,Male,Economics,Spring 2025,Public Finance,4,B,2.97,89
+STU-7143,Male,English Literature,Fall 2023,Creative Writing,3,B,3.26,91
+STU-7143,Male,English Literature,Spring 2024,World Literature,4,C,2.15,81
+STU-7143,Male,English Literature,Fall 2024,Shakespeare,3,D,0.87,60
+STU-7143,Male,English Literature,Spring 2025,Literary Theory,4,B,2.98,91
+STU-7144,Male,Economics,Fall 2023,Public Finance,3,C,2.05,77
+STU-7144,Male,Economics,Spring 2024,International Economics,3,A,4.0,90
+STU-7144,Male,Economics,Fall 2024,Labor Economics,3,B,2.74,93
+STU-7144,Male,Economics,Spring 2025,Game Theory,3,B,2.88,95
+STU-7144,Male,Economics,Spring 2025,Labor Economics,3,B,3.18,84
+STU-7145,Male,Chemistry,Fall 2023,Physical Chemistry,4,F,0.0,41
+STU-7145,Male,Chemistry,Spring 2024,Physical Chemistry,4,A,4.0,94
+STU-7145,Male,Chemistry,Fall 2024,Environmental Chemistry,4,A,3.78,92
+STU-7146,Male,Psychology,Fall 2023,Behavioral Neuroscience,4,B,2.77,94
+STU-7146,Male,Psychology,Spring 2024,Research Methods,4,A,4.0,88
+STU-7146,Male,Psychology,Fall 2024,Research Methods,4,F,0.0,57
+STU-7147,Male,Nursing,Fall 2023,Pharmacology,4,C,1.85,76
+STU-7147,Male,Nursing,Spring 2024,Anatomy & Physiology,3,B,3.26,94
+STU-7147,Male,Nursing,Fall 2024,Community Health,3,C,1.81,86
+STU-7147,Male,Nursing,Spring 2025,Anatomy & Physiology,4,F,0.0,58
+STU-7148,Male,Mechanical Engineering,Fall 2023,Fluid Mechanics,4,A,4.0,93
+STU-7148,Male,Mechanical Engineering,Spring 2024,Materials Science,3,D,1.06,55
+STU-7148,Male,Mechanical Engineering,Fall 2024,Fluid Mechanics,4,A,4.0,89
+STU-7148,Male,Mechanical Engineering,Spring 2025,Heat Transfer,4,A,3.83,97
+STU-7148,Male,Mechanical Engineering,Spring 2025,Engineering Mechanics,3,D,0.73,55
+STU-7149,Male,Mathematics,Fall 2023,Differential Equations,3,F,0.26,60
+STU-7149,Male,Mathematics,Spring 2024,Abstract Algebra,3,A,4.0,95
+STU-7149,Male,Mathematics,Fall 2024,Calculus II,3,B,3.0,87
+STU-7149,Male,Mathematics,Spring 2025,Probability & Statistics,4,A,4.0,88
+STU-7150,Female,Mechanical Engineering,Fall 2023,Engineering Mechanics,3,C,1.92,77
+STU-7150,Female,Mechanical Engineering,Spring 2024,Thermodynamics,4,C,2.04,79
+STU-7150,Female,Mechanical Engineering,Fall 2024,Fluid Mechanics,4,F,0.0,60
+STU-7150,Female,Mechanical Engineering,Spring 2025,Manufacturing Processes,4,B,3.26,91
+STU-7150,Female,Mechanical Engineering,Spring 2025,Heat Transfer,4,B,2.81,80
+STU-7151,Male,Mathematics,Fall 2023,Probability & Statistics,3,B,3.07,79
+STU-7151,Male,Mathematics,Spring 2024,Calculus I,3,B,3.05,81
+STU-7151,Male,Mathematics,Fall 2024,Discrete Mathematics,3,C,2.16,84
+STU-7151,Male,Mathematics,Spring 2025,Probability & Statistics,3,A,3.74,89
+STU-7151,Male,Mathematics,Spring 2025,Differential Equations,4,D,0.73,56
+STU-7152,Female,Chemistry,Fall 2023,Analytical Chemistry,4,C,2.02,67
+STU-7152,Female,Chemistry,Spring 2024,Environmental Chemistry,4,C,2.3,81
+STU-7152,Female,Chemistry,Fall 2024,Polymer Chemistry,4,C,1.74,77
+STU-7152,Female,Chemistry,Spring 2025,Environmental Chemistry,3,F,0.03,37
+STU-7152,Female,Chemistry,Spring 2025,Inorganic Chemistry,3,C,2.04,80
+STU-7153,Male,Mechanical Engineering,Fall 2023,Machine Design,4,B,2.8,82
+STU-7153,Male,Mechanical Engineering,Spring 2024,Manufacturing Processes,4,C,1.94,71
+STU-7153,Male,Mechanical Engineering,Fall 2024,Heat Transfer,4,B,3.11,87
+STU-7154,Male,Nursing,Fall 2023,Pediatric Nursing,3,C,1.92,78
+STU-7154,Male,Nursing,Spring 2024,Medical-Surgical Nursing,4,B,3.23,79
+STU-7154,Male,Nursing,Fall 2024,Health Assessment,3,B,2.84,88
+STU-7154,Male,Nursing,Spring 2025,Mental Health Nursing,4,B,2.71,82
+STU-7154,Male,Nursing,Spring 2025,Pharmacology,4,B,3.13,78
+STU-7155,Male,Biology,Fall 2023,Genetics,4,B,3.19,86
+STU-7155,Male,Biology,Spring 2024,Molecular Biology,3,B,2.88,85
+STU-7155,Male,Biology,Fall 2024,Human Anatomy,3,C,1.72,83
+STU-7156,Male,Mechanical Engineering,Fall 2023,Machine Design,4,A,4.0,97
+STU-7156,Male,Mechanical Engineering,Spring 2024,Control Systems,3,A,4.0,100
+STU-7156,Male,Mechanical Engineering,Fall 2024,Control Systems,4,C,1.94,72
+STU-7156,Male,Mechanical Engineering,Spring 2025,Machine Design,3,B,3.17,87
+STU-7157,Male,Chemistry,Fall 2023,Analytical Chemistry,3,C,1.84,72
+STU-7157,Male,Chemistry,Spring 2024,Biochemistry,3,C,2.18,65
+STU-7157,Male,Chemistry,Fall 2024,General Chemistry,3,A,4.0,94
+STU-7158,Male,Economics,Fall 2023,Econometrics,3,B,3.04,86
+STU-7158,Male,Economics,Spring 2024,Development Economics,3,F,0.18,58
+STU-7158,Male,Economics,Fall 2024,Public Finance,3,A,4.0,88
+STU-7159,Female,Chemistry,Fall 2023,Polymer Chemistry,3,D,1.21,53
+STU-7159,Female,Chemistry,Spring 2024,Analytical Chemistry,4,B,2.91,85
+STU-7159,Female,Chemistry,Fall 2024,Inorganic Chemistry,3,A,3.91,89
+STU-7159,Female,Chemistry,Spring 2025,Inorganic Chemistry,4,B,2.94,88
+STU-7160,Female,Mathematics,Fall 2023,Linear Algebra,4,B,2.75,82
+STU-7160,Female,Mathematics,Spring 2024,Calculus I,4,F,0.29,37
+STU-7160,Female,Mathematics,Fall 2024,Calculus II,3,B,3.25,83
+STU-7160,Female,Mathematics,Spring 2025,Discrete Mathematics,3,B,3.12,83
+STU-7161,Male,English Literature,Fall 2023,World Literature,3,B,2.87,95
+STU-7161,Male,English Literature,Spring 2024,Creative Writing,4,D,0.86,69
+STU-7161,Male,English Literature,Fall 2024,Shakespeare,3,A,3.94,90
+STU-7162,Male,Biology,Fall 2023,Microbiology,4,B,2.7,84
+STU-7162,Male,Biology,Spring 2024,Genetics,3,C,2.12,67
+STU-7162,Male,Biology,Fall 2024,Biochemistry,3,B,2.76,81
+STU-7163,Female,Business Administration,Fall 2023,Business Statistics,3,B,2.94,88
+STU-7163,Female,Business Administration,Spring 2024,Business Statistics,3,F,0.0,37
+STU-7163,Female,Business Administration,Fall 2024,Business Statistics,4,C,2.09,66
+STU-7164,Female,Business Administration,Fall 2023,Organizational Behavior,4,F,0.15,35
+STU-7164,Female,Business Administration,Spring 2024,Financial Accounting,3,D,0.86,68
+STU-7164,Female,Business Administration,Fall 2024,Business Statistics,4,A,3.85,92
+STU-7165,Male,Mechanical Engineering,Fall 2023,Manufacturing Processes,4,D,1.1,65
+STU-7165,Male,Mechanical Engineering,Spring 2024,Control Systems,4,D,0.85,61
+STU-7165,Male,Mechanical Engineering,Fall 2024,Heat Transfer,4,C,2.19,81
+STU-7165,Male,Mechanical Engineering,Spring 2025,Fluid Mechanics,4,A,3.98,92
+STU-7165,Male,Mechanical Engineering,Spring 2025,Heat Transfer,3,C,1.86,70
+STU-7166,Female,Nursing,Fall 2023,Medical-Surgical Nursing,3,C,1.78,75
+STU-7166,Female,Nursing,Spring 2024,Anatomy & Physiology,3,A,3.77,90
+STU-7166,Female,Nursing,Fall 2024,Pharmacology,3,C,1.97,75
+STU-7166,Female,Nursing,Spring 2025,Nursing Research,4,B,3.03,88
+STU-7167,Male,Biology,Fall 2023,Human Anatomy,3,C,1.7,68
+STU-7167,Male,Biology,Spring 2024,Molecular Biology,4,B,3.2,82
+STU-7167,Male,Biology,Fall 2024,Ecology,4,D,0.72,62
+STU-7167,Male,Biology,Spring 2025,Microbiology,4,A,3.85,90
+STU-7167,Male,Biology,Spring 2025,Genetics,4,A,4.0,95
+STU-7168,Male,Computer Science,Fall 2023,Data Structures,4,F,0.09,45
+STU-7168,Male,Computer Science,Spring 2024,Operating Systems,3,B,2.82,79
+STU-7168,Male,Computer Science,Fall 2024,Web Development,3,C,1.74,77
+STU-7168,Male,Computer Science,Spring 2025,Intro to Programming,3,C,1.89,71
+STU-7168,Male,Computer Science,Spring 2025,Data Structures,3,A,3.8,98
+STU-7169,Female,Business Administration,Fall 2023,Marketing Fundamentals,3,A,3.77,96
+STU-7169,Female,Business Administration,Spring 2024,Strategic Management,3,D,0.85,74
+STU-7169,Female,Business Administration,Fall 2024,Business Statistics,4,C,2.29,70
+STU-7170,Female,Nursing,Fall 2023,Pediatric Nursing,3,B,3.06,94
+STU-7170,Female,Nursing,Spring 2024,Pharmacology,3,C,2.29,69
+STU-7170,Female,Nursing,Fall 2024,Community Health,4,C,2.28,73
+STU-7170,Female,Nursing,Spring 2025,Mental Health Nursing,3,B,3.28,85
+STU-7170,Female,Nursing,Spring 2025,Pediatric Nursing,3,C,1.71,73
+STU-7171,Female,Nursing,Fall 2023,Health Assessment,4,B,3.03,88
+STU-7171,Female,Nursing,Spring 2024,Anatomy & Physiology,4,F,0.13,54
+STU-7171,Female,Nursing,Fall 2024,Pharmacology,3,B,3.13,81
+STU-7172,Female,Psychology,Fall 2023,Social Psychology,3,D,0.86,72
+STU-7172,Female,Psychology,Spring 2024,Cognitive Psychology,3,C,1.83,74
+STU-7172,Female,Psychology,Fall 2024,Intro to Psychology,4,A,3.79,92
+STU-7172,Female,Psychology,Spring 2025,Intro to Psychology,4,B,2.81,79
+STU-7172,Female,Psychology,Spring 2025,Clinical Psychology,4,C,2.11,77
+STU-7173,Male,Biology,Fall 2023,Microbiology,4,B,3.29,84
+STU-7173,Male,Biology,Spring 2024,Molecular Biology,3,A,3.73,93
+STU-7173,Male,Biology,Fall 2024,General Biology,3,B,2.88,84
+STU-7173,Male,Biology,Spring 2025,Genetics,3,C,1.8,84
+STU-7174,Male,Biology,Fall 2023,Ecology,3,C,2.28,68
+STU-7174,Male,Biology,Spring 2024,Genetics,3,C,1.76,69
+STU-7174,Male,Biology,Fall 2024,Genetics,3,D,1.15,64
+STU-7174,Male,Biology,Spring 2025,Molecular Biology,4,C,1.8,74
+STU-7175,Male,English Literature,Fall 2023,Literary Theory,3,B,3.19,86
+STU-7175,Male,English Literature,Spring 2024,British Literature,4,B,2.98,91
+STU-7175,Male,English Literature,Fall 2024,Modern Poetry,3,A,4.0,92
+STU-7175,Male,English Literature,Spring 2025,Modern Poetry,3,D,0.97,52
+STU-7176,Male,Chemistry,Fall 2023,Physical Chemistry,4,B,2.91,88
+STU-7176,Male,Chemistry,Spring 2024,Analytical Chemistry,3,C,2.01,78
+STU-7176,Male,Chemistry,Fall 2024,Physical Chemistry,3,B,2.73,94
+STU-7176,Male,Chemistry,Spring 2025,Organic Chemistry,4,D,0.99,59
+STU-7177,Female,Economics,Fall 2023,Game Theory,4,A,4.0,99
+STU-7177,Female,Economics,Spring 2024,Macroeconomics,4,D,0.84,63
+STU-7177,Female,Economics,Fall 2024,Econometrics,3,D,0.87,52
+STU-7177,Female,Economics,Spring 2025,Microeconomics,4,B,3.02,82
+STU-7178,Female,Mathematics,Fall 2023,Real Analysis,3,B,2.87,82
+STU-7178,Female,Mathematics,Spring 2024,Real Analysis,4,B,2.76,93
+STU-7178,Female,Mathematics,Fall 2024,Abstract Algebra,3,A,3.71,91
+STU-7178,Female,Mathematics,Spring 2025,Calculus I,3,C,2.29,72
+STU-7178,Female,Mathematics,Spring 2025,Calculus I,3,A,3.74,95
+STU-7179,Male,Biology,Fall 2023,General Biology,3,F,0.06,56
+STU-7179,Male,Biology,Spring 2024,Ecology,4,B,2.78,86
+STU-7179,Male,Biology,Fall 2024,Biochemistry,3,B,2.83,94
+STU-7179,Male,Biology,Spring 2025,Molecular Biology,4,F,0.0,55
+STU-7179,Male,Biology,Spring 2025,General Biology,3,D,0.75,69
+STU-7180,Female,Biology,Fall 2023,Cell Biology,3,B,3.2,83
+STU-7180,Female,Biology,Spring 2024,Microbiology,3,F,0.14,33
+STU-7180,Female,Biology,Fall 2024,Microbiology,3,C,2.12,73
+STU-7180,Female,Biology,Spring 2025,Ecology,3,B,2.85,90
+STU-7180,Female,Biology,Spring 2025,Ecology,4,C,2.28,86
+STU-7181,Female,Chemistry,Fall 2023,Organic Chemistry,4,A,3.93,95
+STU-7181,Female,Chemistry,Spring 2024,General Chemistry,4,D,0.82,61
+STU-7181,Female,Chemistry,Fall 2024,General Chemistry,4,F,0.25,36
+STU-7181,Female,Chemistry,Spring 2025,General Chemistry,3,A,4.0,88
+STU-7181,Female,Chemistry,Spring 2025,Environmental Chemistry,3,F,0.02,31
+STU-7182,Female,Economics,Fall 2023,Game Theory,4,A,3.72,98
+STU-7182,Female,Economics,Spring 2024,International Economics,4,B,3.01,78
+STU-7182,Female,Economics,Fall 2024,Game Theory,3,B,3.27,91
+STU-7182,Female,Economics,Spring 2025,Macroeconomics,3,C,2.11,85
+STU-7183,Male,Economics,Fall 2023,Development Economics,3,A,4.0,95
+STU-7183,Male,Economics,Spring 2024,Development Economics,4,C,2.2,78
+STU-7183,Male,Economics,Fall 2024,International Economics,3,C,1.71,69
+STU-7183,Male,Economics,Spring 2025,Microeconomics,3,B,3.17,83
+STU-7183,Male,Economics,Spring 2025,International Economics,3,B,2.82,94
+STU-7184,Female,Computer Science,Fall 2023,Database Systems,3,D,1.25,64
+STU-7184,Female,Computer Science,Spring 2024,Algorithms,3,C,2.2,72
+STU-7184,Female,Computer Science,Fall 2024,Intro to Programming,4,B,2.77,86
+STU-7184,Female,Computer Science,Spring 2025,Algorithms,4,A,4.0,90
+STU-7184,Female,Computer Science,Spring 2025,Operating Systems,4,C,2.03,72
+STU-7185,Male,Biology,Fall 2023,Cell Biology,4,C,2.26,84
+STU-7185,Male,Biology,Spring 2024,Biochemistry,4,D,1.13,61
+STU-7185,Male,Biology,Fall 2024,Biochemistry,3,B,2.88,78
+STU-7185,Male,Biology,Spring 2025,General Biology,3,A,4.0,93
+STU-7185,Male,Biology,Spring 2025,Cell Biology,4,B,2.72,91
+STU-7186,Male,Computer Science,Fall 2023,Data Structures,3,B,2.99,80
+STU-7186,Male,Computer Science,Spring 2024,Intro to Programming,4,B,3.15,93
+STU-7186,Male,Computer Science,Fall 2024,Algorithms,3,D,0.84,69
+STU-7186,Male,Computer Science,Spring 2025,Operating Systems,3,D,0.7,56
+STU-7187,Male,Biology,Fall 2023,Human Anatomy,3,C,2.12,67
+STU-7187,Male,Biology,Spring 2024,Molecular Biology,3,B,2.84,83
+STU-7187,Male,Biology,Fall 2024,Human Anatomy,3,A,4.0,91
+STU-7188,Female,Mechanical Engineering,Fall 2023,Thermodynamics,3,C,1.94,65
+STU-7188,Female,Mechanical Engineering,Spring 2024,Thermodynamics,4,D,1.27,56
+STU-7188,Female,Mechanical Engineering,Fall 2024,Manufacturing Processes,3,F,0.0,43
+STU-7188,Female,Mechanical Engineering,Spring 2025,Materials Science,4,C,1.81,88
+STU-7188,Female,Mechanical Engineering,Spring 2025,Fluid Mechanics,3,F,0.0,42
+STU-7189,Female,Economics,Fall 2023,Game Theory,4,B,3.02,91
+STU-7189,Female,Economics,Spring 2024,Macroeconomics,3,D,1.24,54
+STU-7189,Female,Economics,Fall 2024,Labor Economics,3,B,3.21,94
+STU-7189,Female,Economics,Spring 2025,Microeconomics,3,F,0.0,55
+STU-7189,Female,Economics,Spring 2025,Microeconomics,3,F,0.0,37
+STU-7190,Male,Computer Science,Fall 2023,Intro to Programming,3,B,2.96,79
+STU-7190,Male,Computer Science,Spring 2024,Algorithms,4,A,3.85,89
+STU-7190,Male,Computer Science,Fall 2024,Data Structures,4,A,3.97,96
+STU-7190,Male,Computer Science,Spring 2025,Web Development,4,A,3.91,98
+STU-7191,Female,Nursing,Fall 2023,Medical-Surgical Nursing,4,F,0.01,60
+STU-7191,Female,Nursing,Spring 2024,Pharmacology,4,B,3.2,84
+STU-7191,Female,Nursing,Fall 2024,Community Health,3,B,2.8,90
+STU-7191,Female,Nursing,Spring 2025,Pharmacology,3,C,1.91,83
+STU-7191,Female,Nursing,Spring 2025,Mental Health Nursing,4,C,2.26,83
+STU-7192,Female,Business Administration,Fall 2023,Financial Accounting,4,C,2.03,65
+STU-7192,Female,Business Administration,Spring 2024,Financial Accounting,4,B,2.74,79
+STU-7192,Female,Business Administration,Fall 2024,Financial Accounting,4,B,2.94,87
+STU-7192,Female,Business Administration,Spring 2025,Strategic Management,4,B,3.27,79
+STU-7193,Male,Economics,Fall 2023,Econometrics,3,B,2.76,80
+STU-7193,Male,Economics,Spring 2024,Microeconomics,4,B,2.71,82
+STU-7193,Male,Economics,Fall 2024,Labor Economics,4,C,1.96,70
+STU-7193,Male,Economics,Spring 2025,Labor Economics,3,B,3.15,90
+STU-7194,Female,Business Administration,Fall 2023,Business Statistics,3,C,2.14,87
+STU-7194,Female,Business Administration,Spring 2024,Business Statistics,4,A,4.0,88
+STU-7194,Female,Business Administration,Fall 2024,Strategic Management,3,A,3.87,92
+STU-7194,Female,Business Administration,Spring 2025,Marketing Fundamentals,4,B,3.27,94
+STU-7195,Female,Economics,Fall 2023,International Economics,4,D,1.2,75
+STU-7195,Female,Economics,Spring 2024,Microeconomics,4,C,1.73,70
+STU-7195,Female,Economics,Fall 2024,Game Theory,4,B,2.94,83
+STU-7195,Female,Economics,Spring 2025,Microeconomics,4,B,3.11,89
+STU-7195,Female,Economics,Spring 2025,Macroeconomics,3,C,2.11,75
+STU-7196,Male,Business Administration,Fall 2023,Organizational Behavior,3,C,2.29,71
+STU-7196,Male,Business Administration,Spring 2024,Principles of Management,4,A,3.71,98
+STU-7196,Male,Business Administration,Fall 2024,Principles of Management,4,C,2.29,78
+STU-7197,Male,Mathematics,Fall 2023,Abstract Algebra,4,F,0.22,32
+STU-7197,Male,Mathematics,Spring 2024,Calculus I,4,C,2.09,85
+STU-7197,Male,Mathematics,Fall 2024,Discrete Mathematics,4,A,3.89,99
+STU-7197,Male,Mathematics,Spring 2025,Abstract Algebra,3,B,3.29,88
+STU-7198,Male,Economics,Fall 2023,Econometrics,3,B,3.11,91
+STU-7198,Male,Economics,Spring 2024,Labor Economics,3,C,2.01,76
+STU-7198,Male,Economics,Fall 2024,Game Theory,4,B,3.1,86
+STU-7198,Male,Economics,Spring 2025,Development Economics,3,F,0.0,47
+STU-7198,Male,Economics,Spring 2025,Development Economics,3,B,3.03,82
+STU-7199,Female,Biology,Fall 2023,Microbiology,3,A,3.78,95
+STU-7199,Female,Biology,Spring 2024,Biochemistry,3,F,0.07,42
+STU-7199,Female,Biology,Fall 2024,Microbiology,3,B,2.8,94
+STU-7199,Female,Biology,Spring 2025,Biochemistry,3,B,2.95,88
+STU-7199,Female,Biology,Spring 2025,Biochemistry,4,B,2.85,91
+STU-7200,Male,Mathematics,Fall 2023,Abstract Algebra,4,D,0.72,70
+STU-7200,Male,Mathematics,Spring 2024,Probability & Statistics,3,B,3.19,83
+STU-7200,Male,Mathematics,Fall 2024,Discrete Mathematics,4,A,4.0,95
+STU-7200,Male,Mathematics,Spring 2025,Probability & Statistics,4,C,2.1,86
+STU-7201,Female,Economics,Fall 2023,Econometrics,3,D,0.89,68
+STU-7201,Female,Economics,Spring 2024,Econometrics,3,A,4.0,94
+STU-7201,Female,Economics,Fall 2024,International Economics,4,B,2.84,92
+STU-7202,Male,Chemistry,Fall 2023,Organic Chemistry,3,B,2.83,90
+STU-7202,Male,Chemistry,Spring 2024,General Chemistry,4,B,3.24,84
+STU-7202,Male,Chemistry,Fall 2024,Polymer Chemistry,4,D,1.21,54
+STU-7202,Male,Chemistry,Spring 2025,Analytical Chemistry,4,D,1.05,61
+STU-7202,Male,Chemistry,Spring 2025,Polymer Chemistry,3,C,2.06,79
+STU-7203,Female,Mathematics,Fall 2023,Calculus II,3,A,4.0,99
+STU-7203,Female,Mathematics,Spring 2024,Discrete Mathematics,3,C,1.87,82
+STU-7203,Female,Mathematics,Fall 2024,Calculus II,4,D,0.78,68
+STU-7204,Female,Business Administration,Fall 2023,Financial Accounting,4,A,4.0,93
+STU-7204,Female,Business Administration,Spring 2024,Operations Management,4,B,3.28,83
+STU-7204,Female,Business Administration,Fall 2024,Business Statistics,3,B,2.86,89
+STU-7204,Female,Business Administration,Spring 2025,Strategic Management,4,B,3.03,83
+STU-7204,Female,Business Administration,Spring 2025,Operations Management,4,A,4.0,97
+STU-7205,Female,Psychology,Fall 2023,Abnormal Psychology,3,A,3.79,99
+STU-7205,Female,Psychology,Spring 2024,Abnormal Psychology,4,A,3.94,93
+STU-7205,Female,Psychology,Fall 2024,Behavioral Neuroscience,4,C,2.26,81
+STU-7205,Female,Psychology,Spring 2025,Social Psychology,4,B,2.99,83
+STU-7206,Female,Mathematics,Fall 2023,Linear Algebra,4,B,3.08,78
+STU-7206,Female,Mathematics,Spring 2024,Differential Equations,4,B,3.15,91
+STU-7206,Female,Mathematics,Fall 2024,Differential Equations,3,A,3.77,91
+STU-7206,Female,Mathematics,Spring 2025,Calculus I,4,C,2.13,66
+STU-7206,Female,Mathematics,Spring 2025,Differential Equations,4,B,3.03,91
+STU-7207,Male,Mathematics,Fall 2023,Calculus II,4,D,0.94,50
+STU-7207,Male,Mathematics,Spring 2024,Linear Algebra,3,D,1.22,67
+STU-7207,Male,Mathematics,Fall 2024,Real Analysis,3,B,2.98,94
+STU-7207,Male,Mathematics,Spring 2025,Probability & Statistics,3,C,1.79,77
+STU-7207,Male,Mathematics,Spring 2025,Probability & Statistics,3,C,2.29,70
+STU-7208,Male,Economics,Fall 2023,Labor Economics,3,B,3.08,93
+STU-7208,Male,Economics,Spring 2024,Development Economics,4,A,4.0,94
+STU-7208,Male,Economics,Fall 2024,Macroeconomics,3,C,2.27,71
+STU-7208,Male,Economics,Spring 2025,Macroeconomics,4,D,0.88,61
+STU-7208,Male,Economics,Spring 2025,Microeconomics,3,B,3.01,94
+STU-7209,Male,Nursing,Fall 2023,Health Assessment,4,A,4.0,98
+STU-7209,Male,Nursing,Spring 2024,Medical-Surgical Nursing,4,A,3.87,90
+STU-7209,Male,Nursing,Fall 2024,Anatomy & Physiology,3,A,3.81,89
+STU-7210,Female,Biology,Fall 2023,Cell Biology,3,B,3.21,84
+STU-7210,Female,Biology,Spring 2024,Molecular Biology,4,C,2.08,87
+STU-7210,Female,Biology,Fall 2024,Molecular Biology,4,C,1.96,86
+STU-7211,Female,Nursing,Fall 2023,Pediatric Nursing,4,B,3.07,86
+STU-7211,Female,Nursing,Spring 2024,Nursing Research,4,A,4.0,89
+STU-7211,Female,Nursing,Fall 2024,Mental Health Nursing,3,B,3.29,94
+STU-7211,Female,Nursing,Spring 2025,Mental Health Nursing,4,A,4.0,91
+STU-7212,Male,Economics,Fall 2023,International Economics,4,A,4.0,90
+STU-7212,Male,Economics,Spring 2024,Game Theory,4,B,3.19,78
+STU-7212,Male,Economics,Fall 2024,International Economics,4,C,2.18,88
+STU-7212,Male,Economics,Spring 2025,International Economics,4,D,0.94,67
+STU-7213,Male,Biology,Fall 2023,Ecology,4,B,2.96,84
+STU-7213,Male,Biology,Spring 2024,Cell Biology,3,A,4.0,88
+STU-7213,Male,Biology,Fall 2024,General Biology,4,F,0.12,46
+STU-7214,Female,Mathematics,Fall 2023,Probability & Statistics,4,A,4.0,88
+STU-7214,Female,Mathematics,Spring 2024,Real Analysis,4,B,3.23,89
+STU-7214,Female,Mathematics,Fall 2024,Linear Algebra,4,A,3.71,98
+STU-7214,Female,Mathematics,Spring 2025,Differential Equations,3,B,3.14,82
+STU-7214,Female,Mathematics,Spring 2025,Probability & Statistics,3,A,3.99,89
+STU-7215,Female,Chemistry,Fall 2023,Organic Chemistry,4,D,0.73,55
+STU-7215,Female,Chemistry,Spring 2024,Biochemistry,4,B,3.29,84
+STU-7215,Female,Chemistry,Fall 2024,Organic Chemistry,3,C,1.93,77
+STU-7215,Female,Chemistry,Spring 2025,Physical Chemistry,3,D,0.76,72
+STU-7215,Female,Chemistry,Spring 2025,Analytical Chemistry,4,F,0.04,33
+STU-7216,Male,Chemistry,Fall 2023,Environmental Chemistry,4,B,2.74,79
+STU-7216,Male,Chemistry,Spring 2024,Biochemistry,4,F,0.0,52
+STU-7216,Male,Chemistry,Fall 2024,Environmental Chemistry,3,B,3.17,88
+STU-7216,Male,Chemistry,Spring 2025,Polymer Chemistry,3,C,1.86,84
+STU-7216,Male,Chemistry,Spring 2025,Biochemistry,3,C,1.73,77
+STU-7217,Female,Computer Science,Fall 2023,Computer Networks,3,D,0.73,66
+STU-7217,Female,Computer Science,Spring 2024,Computer Networks,4,C,2.05,81
+STU-7217,Female,Computer Science,Fall 2024,Intro to Programming,4,C,1.8,66
+STU-7218,Male,Economics,Fall 2023,Macroeconomics,4,A,3.99,97
+STU-7218,Male,Economics,Spring 2024,Public Finance,3,A,3.91,95
+STU-7218,Male,Economics,Fall 2024,International Economics,3,B,3.16,84
+STU-7219,Female,English Literature,Fall 2023,Modern Poetry,4,B,2.95,81
+STU-7219,Female,English Literature,Spring 2024,Creative Writing,4,F,0.1,31
+STU-7219,Female,English Literature,Fall 2024,Modern Poetry,3,B,2.97,84
+STU-7219,Female,English Literature,Spring 2025,British Literature,4,A,3.7,94
+STU-7219,Female,English Literature,Spring 2025,Composition I,4,A,3.74,98
+STU-7220,Male,Biology,Fall 2023,Cell Biology,4,A,3.77,89
+STU-7220,Male,Biology,Spring 2024,Human Anatomy,4,C,1.78,85
+STU-7220,Male,Biology,Fall 2024,Human Anatomy,3,B,3.08,80
+STU-7220,Male,Biology,Spring 2025,Human Anatomy,4,C,1.77,81
+STU-7221,Female,Biology,Fall 2023,Microbiology,4,B,3.16,92
+STU-7221,Female,Biology,Spring 2024,Molecular Biology,4,F,0.11,51
+STU-7221,Female,Biology,Fall 2024,Molecular Biology,4,B,2.88,87
+STU-7222,Female,Psychology,Fall 2023,Behavioral Neuroscience,4,C,2.26,84
+STU-7222,Female,Psychology,Spring 2024,Intro to Psychology,4,A,4.0,92
+STU-7222,Female,Psychology,Fall 2024,Intro to Psychology,4,C,1.76,76
+STU-7222,Female,Psychology,Spring 2025,Cognitive Psychology,4,C,2.25,74
+STU-7222,Female,Psychology,Spring 2025,Intro to Psychology,3,B,3.14,86
+STU-7223,Male,Mathematics,Fall 2023,Discrete Mathematics,4,C,1.76,85
+STU-7223,Male,Mathematics,Spring 2024,Discrete Mathematics,3,B,3.11,78
+STU-7223,Male,Mathematics,Fall 2024,Probability & Statistics,4,B,3.07,85
+STU-7224,Male,English Literature,Fall 2023,World Literature,4,C,2.11,80
+STU-7224,Male,English Literature,Spring 2024,American Literature,3,F,0.29,49
+STU-7224,Male,English Literature,Fall 2024,Modern Poetry,3,D,1.13,52
+STU-7225,Male,Mechanical Engineering,Fall 2023,Machine Design,3,B,3.15,92
+STU-7225,Male,Mechanical Engineering,Spring 2024,Heat Transfer,4,C,1.94,65
+STU-7225,Male,Mechanical Engineering,Fall 2024,Thermodynamics,4,C,1.84,65
+STU-7226,Male,Chemistry,Fall 2023,Organic Chemistry,4,C,2.05,85
+STU-7226,Male,Chemistry,Spring 2024,Polymer Chemistry,4,A,3.76,90
+STU-7226,Male,Chemistry,Fall 2024,Inorganic Chemistry,3,B,2.74,93
+STU-7226,Male,Chemistry,Spring 2025,Analytical Chemistry,3,D,0.87,51
+STU-7226,Male,Chemistry,Spring 2025,Biochemistry,3,C,2.1,87
+STU-7227,Female,Computer Science,Fall 2023,Data Structures,3,B,3.02,83
+STU-7227,Female,Computer Science,Spring 2024,Computer Networks,3,C,1.78,84
+STU-7227,Female,Computer Science,Fall 2024,Computer Networks,4,D,0.97,65
+STU-7228,Male,Nursing,Fall 2023,Health Assessment,3,A,3.91,96
+STU-7228,Male,Nursing,Spring 2024,Community Health,4,D,1.05,72
+STU-7228,Male,Nursing,Fall 2024,Nursing Research,4,B,3.17,93
+STU-7228,Male,Nursing,Spring 2025,Anatomy & Physiology,4,C,1.71,72
+STU-7228,Male,Nursing,Spring 2025,Nursing Research,4,F,0.06,33
+STU-7229,Female,Chemistry,Fall 2023,Environmental Chemistry,4,B,2.82,85
+STU-7229,Female,Chemistry,Spring 2024,Physical Chemistry,3,A,3.8,99
+STU-7229,Female,Chemistry,Fall 2024,Polymer Chemistry,3,A,3.89,94
+STU-7230,Male,English Literature,Fall 2023,Literary Theory,3,B,2.97,94
+STU-7230,Male,English Literature,Spring 2024,Shakespeare,3,C,1.77,65
+STU-7230,Male,English Literature,Fall 2024,Shakespeare,4,B,3.11,80
+STU-7230,Male,English Literature,Spring 2025,American Literature,4,A,3.92,97
+STU-7230,Male,English Literature,Spring 2025,World Literature,4,D,0.7,58
+STU-7231,Female,Mechanical Engineering,Fall 2023,Engineering Mechanics,4,B,2.86,82
+STU-7231,Female,Mechanical Engineering,Spring 2024,Materials Science,3,A,4.0,93
+STU-7231,Female,Mechanical Engineering,Fall 2024,Manufacturing Processes,3,A,3.78,93
+STU-7231,Female,Mechanical Engineering,Spring 2025,Engineering Mechanics,4,B,3.13,95
+STU-7232,Male,English Literature,Fall 2023,World Literature,3,A,4.0,92
+STU-7232,Male,English Literature,Spring 2024,Composition I,4,C,1.81,73
+STU-7232,Male,English Literature,Fall 2024,World Literature,3,B,2.83,90
+STU-7232,Male,English Literature,Spring 2025,British Literature,3,B,3.09,84
+STU-7232,Male,English Literature,Spring 2025,Creative Writing,4,F,0.01,46
+STU-7233,Female,Chemistry,Fall 2023,Physical Chemistry,3,A,3.78,98
+STU-7233,Female,Chemistry,Spring 2024,Inorganic Chemistry,3,C,2.12,74
+STU-7233,Female,Chemistry,Fall 2024,Environmental Chemistry,3,B,2.96,79
+STU-7234,Male,Chemistry,Fall 2023,Environmental Chemistry,3,B,3.06,90
+STU-7234,Male,Chemistry,Spring 2024,Inorganic Chemistry,4,B,2.7,85
+STU-7234,Male,Chemistry,Fall 2024,Organic Chemistry,4,A,3.88,92
+STU-7234,Male,Chemistry,Spring 2025,Organic Chemistry,3,B,3.16,95
+STU-7234,Male,Chemistry,Spring 2025,Inorganic Chemistry,4,B,2.83,80
+STU-7235,Male,Economics,Fall 2023,International Economics,3,C,1.8,72
+STU-7235,Male,Economics,Spring 2024,Microeconomics,4,B,3.02,82
+STU-7235,Male,Economics,Fall 2024,Macroeconomics,3,D,1.0,74
+STU-7235,Male,Economics,Spring 2025,Public Finance,3,A,3.84,89
+STU-7235,Male,Economics,Spring 2025,Development Economics,4,B,2.9,95
+STU-7236,Male,Nursing,Fall 2023,Pediatric Nursing,3,A,4.0,97
+STU-7236,Male,Nursing,Spring 2024,Anatomy & Physiology,3,F,0.0,50
+STU-7236,Male,Nursing,Fall 2024,Pharmacology,3,F,0.07,43
+STU-7237,Male,Business Administration,Fall 2023,Operations Management,3,B,2.99,85
+STU-7237,Male,Business Administration,Spring 2024,Strategic Management,3,A,3.78,94
+STU-7237,Male,Business Administration,Fall 2024,Financial Accounting,4,A,3.97,97
+STU-7237,Male,Business Administration,Spring 2025,Operations Management,4,C,2.0,82
+STU-7238,Male,Economics,Fall 2023,Macroeconomics,4,B,3.0,87
+STU-7238,Male,Economics,Spring 2024,International Economics,3,B,3.1,86
+STU-7238,Male,Economics,Fall 2024,Game Theory,4,B,3.04,83
+STU-7238,Male,Economics,Spring 2025,Microeconomics,4,D,1.21,55
+STU-7239,Female,Mechanical Engineering,Fall 2023,Manufacturing Processes,3,A,3.92,97
+STU-7239,Female,Mechanical Engineering,Spring 2024,Engineering Mechanics,4,C,2.02,71
+STU-7239,Female,Mechanical Engineering,Fall 2024,Manufacturing Processes,4,B,3.2,88
+STU-7240,Female,Business Administration,Fall 2023,Business Statistics,3,B,2.78,81
+STU-7240,Female,Business Administration,Spring 2024,Principles of Management,4,C,1.76,85
+STU-7240,Female,Business Administration,Fall 2024,Business Law,4,C,2.05,74
+STU-7241,Female,Mechanical Engineering,Fall 2023,Heat Transfer,3,B,2.91,84
+STU-7241,Female,Mechanical Engineering,Spring 2024,Manufacturing Processes,3,C,1.97,72
+STU-7241,Female,Mechanical Engineering,Fall 2024,Thermodynamics,4,A,3.9,89
+STU-7242,Male,Psychology,Fall 2023,Intro to Psychology,3,A,4.0,98
+STU-7242,Male,Psychology,Spring 2024,Developmental Psychology,4,A,4.0,96
+STU-7242,Male,Psychology,Fall 2024,Intro to Psychology,3,B,3.22,84
+STU-7243,Female,Business Administration,Fall 2023,Principles of Management,4,C,2.22,78
+STU-7243,Female,Business Administration,Spring 2024,Operations Management,4,C,1.96,70
+STU-7243,Female,Business Administration,Fall 2024,Principles of Management,3,C,1.72,71
+STU-7243,Female,Business Administration,Spring 2025,Business Statistics,3,F,0.0,60
+STU-7244,Female,Nursing,Fall 2023,Mental Health Nursing,4,B,2.99,94
+STU-7244,Female,Nursing,Spring 2024,Anatomy & Physiology,3,A,3.74,89
+STU-7244,Female,Nursing,Fall 2024,Community Health,4,C,1.85,77
